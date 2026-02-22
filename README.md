@@ -38,7 +38,7 @@ I'm a <b>BCA Student</b> (Class of 2028) at <b>Parul University</b> from <b>Port
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data analyst from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
